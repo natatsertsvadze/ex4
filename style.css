@@ -1,0 +1,142 @@
+/* hading */
+header {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.our-team {
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+}
+.main-heading {
+    font-family: 'Inter', sans-serif;
+    font-size: 54px;
+    display: block;
+}
+.paragraph {
+    font-size: 20px;
+    font-family: 'Inter', sans-serif;
+    margin: 16px;  
+    width: 760px;
+    line-height: 35px;
+    color: #5F6980;
+    display: inline-block;
+}
+/* /heading */
+main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    gap: 32px;
+    grid-template-rows: 450px 450px;
+    gap: 48px;
+    padding: 48px 52px;
+}
+.imageo {
+    width: 350px;
+}
+b {
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+    padding-bottom: 4px;
+    display: block;
+}
+.profession {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color:#3E3E59;
+}
+.description {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: #5F6980;
+    margin: 8px 0px;
+    line-height: 22px;
+}
+.information-description {
+    padding: 13px;
+}
+.icon {
+    background-color: #F2F4F7;
+    border-radius: 16px;
+}
+.icons-main {
+    padding: 0px 16px;
+    display: inline-block;
+    /* gasasworebeli */
+}
+.main-box {
+    border: 1px solid #EAECF0;
+}
+.icon-box {
+    display: inline-block;
+    width: 36px;
+    height: 36px;
+    background-color: #F2F4F7;
+    border-radius: 16px;
+    text-align: center;
+}
+.logo {
+    padding: 8px;
+}
+ .icon-box-middle {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+
+
+
+/* footer */
+footer {
+    background-color: #53535354;
+    display: flex;
+    flex-direction: row;
+    padding: 108px 60px 181px 60px;
+    justify-content: space-between;
+}
+
+.footer-paragraph {
+    font-size: 14px;
+    font-family: 'Inter', sans-serif;
+    color: #535353;
+    width: 305px;
+}
+.free-uni {
+    width: 100px;
+}
+.icons :nth-child(2) {
+    padding: 0px 16px;
+}
+.footer-h2 {
+    font-family: 'Inter', sans-serif;
+    font-size: 20px;
+    padding-bottom: 71px;
+}
+ul {
+    list-style-type: none;
+    color: #535353; 
+    padding-inline-start: 0px;
+    font-family: 'Inter', sans-serif;
+    font-size: 14px;
+}
+a {
+    text-decoration: none;
+}
+li {
+    color: #535353;  
+}
+
+nav {
+    padding-right: 147px;
+}
+button {
+    margin-top: 58.45px;
+    background-color: #054A68;
+    width: 80px;
+    height: 45px;
+    color: white;
+    border: none;
+}
+.items {
+    padding: 15px 0px;
+}
